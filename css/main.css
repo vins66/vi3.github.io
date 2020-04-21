@@ -1,0 +1,156 @@
+/*@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+#we{
+	background-color: #BDF0B8;
+	font-family: "Lato";
+	font-weight: 300;
+	font-size: 16px;
+	color: red;
+
+	-webkit-font-smoothing:antialiased;
+	-webkit-overflow-scrolling:touch;
+	margin-top: 70px;}
+*/
+
+/*Карточка 3*/
+
+/*@import url('https://fonts.googleapis.com/css?family=Lobster|Muli|Playfair+Display|Righteous&display=swap');
+div, card-text-left{
+	background-color: ;
+	font-family: "Lobster";
+	font-weight: 300;
+	font-size: 16px;
+	color: 000000;
+
+	-webkit-font-smoothing:antialiased;
+	-webkit-overflow-scrolling:touch;
+	margin-top: 10px;}*/
+
+/*Карточка 0*/
+
+
+body{ 
+		padding: 0;
+	margin: 0;
+ }
+body {
+		
+	background: url(../img/fon2.png) no-repeat center top / cover ;
+			height: 100vh;
+		opacity: 0.9;
+	font-family: Arial;
+}
+.log{
+	margin-left: 150px;
+	margin-top: 10px;
+}
+.title h3{
+	padding-top: 5px;
+	/*margin-right: 90px;*/
+	}
+	.title h2{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin-left: 100px;
+	margin-right: 100px;
+	}
+	.title{
+	color: #faebeb;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 5px;
+	}
+
+	#glav  {
+		
+		display: block;
+		color: bisque;
+		font-size: 30px;
+		margin-top: -65px;
+			margin-left: 880px;
+			text-decoration: none ;
+			border-radius: 3px 0 0 3px;
+			cursor: pointer;
+	position: absolute;
+	/*top: 15%;*/
+	width: auto;
+	margin-top: -22px;
+	padding: 16px;
+	/*color: green;*/
+	font-weight: bold;
+	font-size: 28px;
+	transition: 0.6s ease;
+	}
+	#glav:hover
+	 /*#zak:focus*/
+	 {
+		color: red;
+		/* outline: 0; */
+		background-color: blue;
+}
+.photo img {
+  display: none;
+}
+
+ #qw{
+	background-color: #AFD0FF;
+	/*font-family: 'Paytone One', sans-serif;*/
+	font-weight: 300;
+	font-size: 16px;
+	color: 000000;
+
+	-webkit-font-smoothing:antialiased;
+	-webkit-overflow-scrolling:touch;
+	margin-top: 10px;}
+
+/*Карточка 3 дублекат*/
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+	#qк{
+	background-color: #AFD0FF;
+	font-weight: 300;
+	font-size: 16px;
+	color: 000000;
+	font-family: 'Lobster', cursive;
+
+	-webkit-font-smoothing:antialiased;
+	-webkit-overflow-scrolling:touch;
+	margin-top: 10px;}
+
+/*Карточка 2*/
+/*@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Raleway&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css?family=Tinos&display=swap');*/
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+/*@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Lora&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css?family=Paytone+One&display=swap');*/
+
+
+#qe{
+	background-color: #060906;
+	/*font-family: 'Raleway' ,sans-serif;*/
+	/*font-family: 'Fredoka One', cursive;*/
+	/*font-family: 'Great Vibes', cursive;*/
+	/*font-family: 'Tinos', serif;*/
+	font-family: 'Lora', serif;
+	/*font-family: 'Abril Fatface', cursive;*/
+	/*font-family: 'Paytone One', sans-serif;*/
+	
+	font-weight: 300;
+	font-size: 16px;
+	color: #D7FFD7;
+
+	-webkit-font-smoothing:antialiased;
+	-webkit-overflow-scrolling:touch;
+	margin-top: 10px;}
+
+
+
+#log{
+	color: #BEE2FF;
+}
+ em.fa{ font-size: 30px; color: #C0FFB4;}
+ em.fa-shopping-basket{ font-size: 30px; color:#FF8CC7;}
+ em.fa-mobile{ font-size: 30px; color: red;}
